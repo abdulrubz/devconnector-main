@@ -1,0 +1,3 @@
+[submodule "devconnector-features"]
+	path = devconnector-features
+	url = https://github.com/abdulrubz/devconnector-features
